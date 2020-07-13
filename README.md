@@ -2,7 +2,7 @@
 
 # My name is Luis Sarmiento 
 
-I'm from Colombia, student of Software engineering, passionate about lerning new stuff and tecnologies.
+I'm from Colombia, student of Software engineering, passionate about learning new stuff and tecnologies.
 
 - 🔭 I’m currently working on C.I. Farmacapsulas as a Cost Analyst. 
 - 🌱 I’m currently learning Software Engineering on Americana University and Data Science and Web Development on Platzi.
